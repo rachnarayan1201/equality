@@ -1,4 +1,4 @@
-# equality
+
 #include<stdio.h>
 int main()
 {
